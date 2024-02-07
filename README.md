@@ -10,9 +10,13 @@ This repository contains the implementation of a ChatBot using OpenAI's LLM, Str
 
 ### Installation:
 
-Clone the repository to your local machine.
+1. Clone the repository to your local machine.
 
 git clone https://github.com/mvshah10/LangChain_QA_ChatBot.git
+
+2. Install the required dependencies:
+
+pip install -r requirements.txt
 
 ### Live Demo:
 
